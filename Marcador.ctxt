@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Marcador
+comment1.params=nuevosPuntos
+comment1.target=void\ actualizarPuntos(int)
+comment2.params=
+comment2.target=void\ actualizarImagen()
+numComments=3

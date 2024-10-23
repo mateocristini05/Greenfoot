@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MundoJuego
+comment1.params=
+comment1.target=MundoJuego()
+comment2.params=
+comment2.target=void\ generarColeccionable()
+comment3.params=
+comment3.target=void\ generarEnemigos()
+comment4.params=
+comment4.target=void\ finDelJuego()
+numComments=5
